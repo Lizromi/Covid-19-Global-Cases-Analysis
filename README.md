@@ -23,18 +23,18 @@ After undergoing these preprocessing steps, the COVID-19 global cases data was t
 2. **Distribution of Confirmed Cases by Month in 2023:**
    - In January 2023, confirmed cases accounted for approximately 6.52% of the total sum of confirmed cases, highlighting the significance of temporal variations within a year.
 3. **Highest Average Confirmed Cases by Year:**
-   ![Screenshot 2024-05-01 145602](https://github.com/Lizromi/Covid-19-Global-Cases-Analysis/assets/122525106/c4bd023d-8336-4b68-9cb3-0cacb67bb3bb)
     - 2022 witnessed the highest average sum of confirmed cases, with an average of 16,377,442,430.50 cases per year. This is followed by 2023, 2021, and 2020, suggesting the sustained impact of the pandemic over consecutive years.
+      ![Screenshot 2024-05-01 145602](https://github.com/Lizromi/Covid-19-Global-Cases-Analysis/assets/122525106/c4bd023d-8336-4b68-9cb3-0cacb67bb3bb)
 5. **Regional Disparities in Confirmed Cases:**
-   ![Screenshot 2024-05-01 145228](https://github.com/Lizromi/Covid-19-Global-Cases-Analysis/assets/122525106/5982181f-afbf-46ea-8123-a177c12bdcb7)
     - The United States had the highest sum of confirmed cases, reaching 53,813,184,406, which was 535.50% higher than Korea, South, with the lowest sum of confirmed cases at 8,467,888,968. This stark contrast underscores the regional disparities in COVID-19 prevalence and containment efforts.
+      ![Screenshot 2024-05-01 145228](https://github.com/Lizromi/Covid-19-Global-Cases-Analysis/assets/122525106/5982181f-afbf-46ea-8123-a177c12bdcb7)
 7. **Contribution of the United States to Total Confirmed Cases:**
    - The United States accounted for approximately 29.25% of the total sum of confirmed cases, highlighting its significant share in the global burden of COVID-19 infections.
 8. **Range of Recovered Cases Across Top 10 Countries:**
-   ![Screenshot 2024-05-01 145311](https://github.com/Lizromi/Covid-19-Global-Cases-Analysis/assets/122525106/957c0c4f-5dde-478b-afa6-14fcfd1cf2c1)
    - Among the top 10 countries, the number of recovered cases ranged from 498,203,576 to 4,859,387,857 with India having the highest recovery cases, showcasing variations in recovery rates and healthcare systems' effectiveness in managing the pandemic.
+     ![Screenshot 2024-05-01 145311](https://github.com/Lizromi/Covid-19-Global-Cases-Analysis/assets/122525106/957c0c4f-5dde-478b-afa6-14fcfd1cf2c1)
 9. **Range of Recovered Cases Across Top 10 Countries:**
-   ![Screenshot 2024-05-01 145451](https://github.com/Lizromi/Covid-19-Global-Cases-Analysis/assets/122525106/cea4e699-ca74-4b2f-bab8-7b4dada99b3e)
     - Among the top 10 countries, a total of 4 billion deaths was recorded with The United States being the counrty with the highest death cases.
+      ![Screenshot 2024-05-01 145451](https://github.com/Lizromi/Covid-19-Global-Cases-Analysis/assets/122525106/cea4e699-ca74-4b2f-bab8-7b4dada99b3e)
 11. **Overall Pandemic Metrics:**
    - Over the years analyzed, the death rate averaged at 1.39%, resulting in a total of 4 billion deaths. The total number of confirmed cases stood at 317 billion, affecting a total of 201 countries globally. The recovery rate averaged at 7%, resulting in a total of 23 billion recovered cases, indicating the resilience and recovery efforts amidst the pandemic.
